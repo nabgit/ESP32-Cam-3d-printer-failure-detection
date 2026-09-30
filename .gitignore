@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Created when the script runs
+detections/
+timelapse/
+runs/
+
+# Videos
+*.mp4
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
